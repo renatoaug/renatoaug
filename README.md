@@ -26,6 +26,10 @@
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Dialogflow](https://img.shields.io/badge/-Dialogflow-333333?style=flat&logo=dialogflow)
+  ![Amazon API Gateway](https://img.shields.io/badge/-Amazon%20API%20Gateway-333333?style=flat&logo=amazon-api-gateway)
+  ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=aws-lambda)
+    
   
 **Databases**
 
@@ -34,6 +38,8 @@
  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch&logoColor=yellow)
+ ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=google-cloud)
+ ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
  
 **Clouds**
 
@@ -57,6 +63,8 @@
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=blueviolet)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![CircleCI](https://img.shields.io/badge/-CircleCI-333333?style=flat&logo=circleci&logoColor=grey)
+  ![Diagrams.net](https://img.shields.io/badge/-Diagrams.net-333333?style=flat&logo=diagrams.net)
+  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=github-actions)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=blue)
   ![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube)
