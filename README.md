@@ -1,10 +1,28 @@
 ## 👨‍💻 About
 
+<div align="center">
+  <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h3 align="center">
+  Hi, I'm Renato Augusto
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Head%20Of%20Engineering;Staff%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 📌 &nbsp; Curitiba, PR - Brasil 🇧🇷.
-- 🎓 &nbsp; Computer engineer - 2017.
-- 💼 &nbsp; Head of engineering at [UOL Edtech](http://uoledtech.com.br).
+- 📌 &nbsp; Based in Campo Grande, MS - Brazil 🇧🇷  
+- 🎓 &nbsp; Computer Engineer (2017)  
+- 💼 &nbsp; Head of Engineering at [UOL EdTech](http://uoledtech.com.br)  
+- 💡 &nbsp; Passionate about scalable systems & event-driven architectures  
+- 🎮 &nbsp; Gamer at heart (Hooked on platinum trophies 🏆)
+- 📖 &nbsp; Always learning — tech, leadership, and languages
+- ⚡ &nbsp; Fun fact: Writing code is fun, but deleting code is pure joy
+- 🌐 &nbsp; You can visit [my website](https://rames.io)  
 
 ## 🚀 Stacks
 
@@ -69,11 +87,20 @@
   ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=blue)
   ![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube)
 
-<!-- <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right"> -->
+## 📊 GitHub Stats
 
----
+<div align="center">
+
+| 📈 Contributions | 🔥 Streaks |
+|------------------|------------|
+| ![](https://github-readme-stats.vercel.app/api?username=renatoaug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com?user=renatoaug&theme=tokyonight&hide_border=true) |
+
+| 💻 Languages | 📋 Profile Summary |
+|--------------|---------------------|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoaug&layout=compact&theme=tokyonight&hide_border=true&count_private=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatoaug&theme=tokyonight) |
+
+</div>
 
 ## 🌎 Where to find me
 
